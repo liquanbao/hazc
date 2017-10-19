@@ -1,4 +1,4 @@
 git add .
 git commit -m "bat"
-git pust master master
+git push master master
 pause
